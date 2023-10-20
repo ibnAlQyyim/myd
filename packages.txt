@@ -5,8 +5,6 @@ wget
 git
 tmux
 screen
-screen
-yt-dlp
 make
 build-essential
 Node.js 
