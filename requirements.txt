@@ -3,3 +3,4 @@ tgcrypto
 yt-dlp
 wget
 gradio_client
+gradio==4.29.0
