@@ -23,9 +23,9 @@ iface = gr.Interface(fn=terminal_interface, inputs="text", outputs="text", title
 
 app = Client(
     "yt_bot",
-    api_id=22174278,
-    api_hash="963743dc84addd651cd295e523856ece",
-    bot_token="6230806083:AAGDAG762pEutljbwYES1Vf0MFr-uRQTP2Y"
+    api_id=1234556,
+    api_hash="442u447737KfocinLpw0e",
+    bot_token="123456789:Labcxowv37eghwidbd8383zfkqqqpzmnnxHFE"
 )
 
 
