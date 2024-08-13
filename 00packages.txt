@@ -1,11 +1,4 @@
-sudo
 ffmpeg
 curl
 wget
-git
-tmux
-screen
-make
-build-essential
-Node.js 
-npm
+
